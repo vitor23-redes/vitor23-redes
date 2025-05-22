@@ -42,3 +42,4 @@ Conecte-se comigo!
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
 | ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F51dc37f2-8391-4f44-acce-643eed0e608c%3Fsource%3Dlinked_in_profile) | AWS Academy Cloud Foundations |
 | ![SENAI AZ900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat&labelColor=%23D22B2B&color=white) | SENAI Azure Fundamentals 900 |
+| ![SENAI AZ900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat&labelColor=%23D22B2B&color=white) | SENAI Azure Fundamentals 900 |
