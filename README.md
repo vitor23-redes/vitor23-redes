@@ -35,7 +35,7 @@ Conecte-se comigo!
 </p>
 
 
-## Certificações
+## Certificações 🥇
 
 | Certificação | Nome |
 | --- | --- |
@@ -43,3 +43,44 @@ Conecte-se comigo!
 | ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F51dc37f2-8391-4f44-acce-643eed0e608c%3Fsource%3Dlinked_in_profile) | AWS Academy Cloud Foundations |
 | ![SENAI AZ900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat&labelColor=%23D22B2B&color=white) | SENAI Azure Fundamentals 900 |
 | ![SENAI AZ900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat&labelColor=%23D22B2B&color=white) | SENAI Azure Fundamentals 900 |
+
+---
+
+## Conquistas 🏆
+
+- Campeonato no Valorant
+- Interclasse campeão
+- Curso preparatório para o AZ 900, AI 900
+- Curso técnico de Redes
+- Projeto Zabbix (SentinalWatch)
+- Projeto na Azure (SevenClouds)
+- Certificado internacional: AI 900
+- Casa IOT
+
+## Projetos
+
+- Casa Inteligente voltada aos PCDs com o uso de IoT (Grupo SmartHome)
+- Monitoramento On-premises com o uso de Zabbix & Grafana (AlertFlow)
+- Infraestrutura em nuvem utilizando AWS e Azure (Aether Cloud)
+- Cabeamento estruturado baseado em empresas reais (??)
+- Infraestrutura de Redes no Packet Tracer (Rede SãoCaetano)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vitor23-redes&theme=halloween&hide_border=true&short_numbers=true">
+</p>
+
+## Conecte-se comigo! 📬
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jgsiqueiraa/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>
+
+
+<h4 align="center">
+  Obrigado por visitar!
+  <br>
+  <br>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=vitor23-redes">
+  </div>
+</h4>
